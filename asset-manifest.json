@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://vikrantkkk.github.io/csb-qmom3p/static/css/main.fc5c2c69.css",
+    "main.js": "https://vikrantkkk.github.io/csb-qmom3p/static/js/main.ccd67c3e.js",
+    "index.html": "https://vikrantkkk.github.io/csb-qmom3p/index.html",
+    "main.fc5c2c69.css.map": "https://vikrantkkk.github.io/csb-qmom3p/static/css/main.fc5c2c69.css.map",
+    "main.ccd67c3e.js.map": "https://vikrantkkk.github.io/csb-qmom3p/static/js/main.ccd67c3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.ccd67c3e.js"
+  ]
+}
